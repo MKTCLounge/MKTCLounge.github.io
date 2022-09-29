@@ -1,4 +1,3 @@
-# mktclounge.github.io
 MKTC Lounge Rules
 
 Credits to Cynda for the original formatting.
