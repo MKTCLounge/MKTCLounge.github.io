@@ -3,7 +3,6 @@ MKTC Lounge Rules
 
 [I][SIZE=4]Credits to Cynda for the original formatting.[/SIZE][/I]
 
-
 [SIZE=4][B]I. JOINING THE LOUNGE[/B][/SIZE]
 
 [INDENT][SIZE=4][B]A.[/B] Upon joining the server, users send their MKCentral Registry account in the [B]#mkcentral-links[/B] channel in our Discord Server. For help doing this, refer to [URL='https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-registry-guide.3921/'][B]this guide.[/B][/URL] [/SIZE][/INDENT]
