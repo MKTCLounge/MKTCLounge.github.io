@@ -58,9 +58,11 @@ ii. If the event is a FFA, only a host will be needed and the event can start im
 
 iii. If the event is a 2v2, teams will be randomized.
 
-iv. Once teams are randomized, they are final and cannot be changed.
+iv. If the event is a 4v4, the 2 players with the highest MMR in the room will be placed in different teams. The others 6 players will be randomly and automatically selected to one of the teams. The 2 highest MMR must choose the tag for their teams.
 
-v. In the event of MogiBot being offline and players are forced to manually randomize teams, the list which appears first will be the official teams. Players who force another list will receive -50 MMR strike.
+v. Once teams are randomized, they are final and cannot be changed.
+
+vi. In the event of MogiBot being offline and players are forced to manually randomize teams, the list which appears first will be the official teams. Players who force another list will receive -50 MMR strike.
 
 G. Once the host is decided, the host must share the Room Code. You can copy and paste the code to join the multiplayer lobby for ease.
 
