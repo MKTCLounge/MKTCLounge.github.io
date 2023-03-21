@@ -25,7 +25,7 @@ c. Making an alternate account to join lounge will result in a permanent ban fro
 
 II. RANKING SYSTEM
 
-A. Once a staff member has seen your account, you will be placed into one of the following ranks.[/SIZE]
+A. Once a staff member has seen your account, you will be placed into one of the following ranks.
 
 i. Everyone starts off at 750 MMR (Iron), but existing players will start at a Placement MMR.​
 
@@ -169,9 +169,9 @@ Note. This issue is caused due to MKT's multiplayer mode randomly assigning the 
 
 D. In 2v2/4v4 events. If a player disconnects and is replaced by a CPU (Penguin Luigi for example), the room is to be reopened and the race will not count.
 
-i. Each team may only reset the room once (1) in accordance with V.d. Further disconnections will be played out with regard to rule V.b.​
+i. Each team may only reopen the room once (1) in accordance with V.d. Further disconnections will be played out with regard to rule V.b.​
 
-ii. In 2v2/4v4 events. Disconnections in the first race will not be consider as a "reset" to the team. Players who disconnect twice in the first race will receive a strike without MMR loss though​
+ii. In 2v2/4v4 events. Disconnections in the first race will not be consider as a "reopen" to the team, the race will not count and the room must be be reopened. Players who disconnect twice in the first race will receive a strike without MMR loss though, this second reopen also does not count as a "reopen" to the team.​
 
 E. In FFA format events. If a player disconnects is replaced by CPU (Penguin Luigi for example). The race will count and the room must not be reopened.
 
@@ -241,7 +241,7 @@ ii. Players will not be able to cancel a mogi, without first tagging the Lounge 
 
 iii. Players who use /esn command without respecting the above point will receive reporter banned role.​
 
-]iv. Players who post incorrect tables, wrong points, etc., might receive reporter flag in the first occurrence. The second occurrence the player will receive Reporter banned role.​
+iv. Players who post incorrect tables, wrong points, etc., might receive reporter flag in the first occurrence. The second occurrence the player will receive Reporter banned role.​
 
 E. Tables must be submitted using the Pinbot - MKT Table Bot in the Lounge server. For more info on how to use this bot, click here.
 
