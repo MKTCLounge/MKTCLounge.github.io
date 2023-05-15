@@ -103,7 +103,7 @@ Number of races: 12 races
 Join Method: Room Code
 i. Rooms that are started with incorrect settings will be reopened and any races with the incorrect settings will not count.
 
-ii. Failure to start a room with the correct settings may result in an individual host flag. If mogi is cancelled for incorrect settings, host will recieve host ban and -50 MMR strike.
+ii. Failure to start a room with the correct settings may result in an individual host flag. If mogi is cancelled for incorrect settings, host will receive host ban and -50 MMR strike.
 
 iii. Players with 2 host flags will receive Host Banned role.
 
@@ -184,11 +184,11 @@ D. In 2v2/4v4 events. If a player disconnects and is replaced by a CPU (Penguin 
 
 i. Each team may only reopen the room once (1).
 
-ii. In 2v2/4v4 events. Disconnections in the first race will not be consider as a "reopen" to the team, the race will not count and the room must be be reopened. Players who disconnect twice in the first race will receive a strike without MMR loss though, this second reopen also does not count as a "reopen" to the team.
+ii. In 2v2/4v4 events. Disconnections in the first race will not be consider as a "reopen" to the team, the race will not count and the room must be reopened. Players who disconnect twice in the first race will receive a strike without MMR loss though, this second reopen also does not count as a "reopen" to the team.
 
 E. In FFA format events. If a player disconnects is replaced by CPU (Penguin Luigi for example). The race will count and the room must not be reopened.
 
-i. If a player disconnects in the first race and is replaced by CPU (Penguin Luigi for example). The race will not count and the room must be be reopened.
+i. If a player disconnects in the first race and is replaced by CPU (Penguin Luigi for example). The race will not count and the room must be reopened.
 
 ii. If 3 or more players disconnect and are replaced by CPUs (Cat Toad, Ice Mario for example). The race will not count and the room must be reopened.
 
