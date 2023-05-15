@@ -255,9 +255,7 @@ B. In order for a match to be counted, using a war table with all the correct pl
 
 C. Room hosts are responsible for taking screenshots of the results. If an event fails to have a screenshot or table posted within 12 hours, the host of the room will receive -100 MMR strike and a host banned role.
 
-i. In case the race provides two different results to players, the screenshot valid is the one that host has.
-
-ii. If host doesn’t have the screenshot, the race will not count. The host will receive a host flag in this case.
+i. In case the race provides two different results to players, the screenshot valid is the one that host has. If host doesn’t have the screenshot, the race will not count. The host will receive a host flag in this case.
 
 D. Only reporters will be given access to the results channel in order to prevent spamming. If you would like to become a reporter, please press reactions in self-roles channel.
 
