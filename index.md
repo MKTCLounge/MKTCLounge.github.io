@@ -301,4 +301,4 @@ That is all that we are expecting each and every one of you to follow. We hope y
 
 Thank you.
 
-- MKTC Lounge Staff
+- MKTC Lounge Staff.
