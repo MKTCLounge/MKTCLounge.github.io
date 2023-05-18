@@ -19,7 +19,7 @@ A. If you would like a specific nickname for the scoreboard and Discord server, 
 
 i. Nicknames may only contain letters (at least one), numbers, spaces, periods/full stops, hyphen or underscores. They must start and end with only letters or numbers, and must have 20 characters maximum. They also may not contain any vulgar language or impersonate another MKC user. In most cases, if your name can be used as a Twitter username, you can use it in lounge. Exceptions may be granted on a case-by-case basis.​
 
-B. Every player is allowed to request nickname changes, but after one request they need to wait 60 days to request another name change. They may request to change back to their previous Registry name at any time though, but they will still be unable to make further name change requests for 60 days.
+B. Every player is allowed to request nickname changes, but after one request they need to wait 2 months to request another name change. They may request to change back to their previous Registry name at any time though, but they will still be unable to make further name change requests for 2 months.
 
 C. Player who received Reporter Banned role are unable to request name changes.
 
@@ -117,10 +117,10 @@ D. All players will have a free choice of drivers, karts and gliders.
 
 E. Once a room has been opened, players will have 5 minutes to join the room. Players that join the room after 5 minutes (minute 6) will receive a -50 MMR strike. Players that join the room after 10 minutes (minute 11) will receive a -100 MMR strike.
 Ex.
-Room Code: 01
-No strike: minute :06
-1st strike: minute :07 at minute :11
-2nd strike: minute :12
+Room Code: 00
+No strike: minute :05
+1st strike: minute :06 at minute :10
+2nd strike: minute :11
 
 F. After the first 5 minutes have passed, the lineup may look for sub. The sub may only join the room after 10 minutes of waiting. The mogi should not be started with less than 8 players under any condition.
 
