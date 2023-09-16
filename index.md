@@ -3,12 +3,12 @@ I. JOINING THE LOUNGE
 A. Upon joining the server, users send their MKCentral Registry account in the #mkcentral-links channel in our Discord Server. For help doing this, refer to this guide.
 Ex. https://www.mariokartcentral.com/forums/index.php?members/luismx.6179/
 
-i. New and returning players will need to use the !verify command to validate their MKCentral account. Using the following command:
-!verify LoungeName https://www.mariokartcentral.com/forums/index.php?members/MKCentralMemberId
+i. New and returning players will need to use the !verify command to validate their MKCentral account. Using the following command:​
+!verify LoungeName https://www.mariokartcentral.com/forums/index.php?members/MKCentralMemberId​
 
-ii. LoungeName is the name you will use in this discord server Lounge, do not use special characters other than '-._' and maximum one space character. If you are a returning player, please put you previous lounge name.
+ii. LoungeName is the name you will use in this discord server Lounge, do not use special characters other than '-._' and maximum one space character. If you are a returning player, please put you previous lounge name.​
 
-iii. MKCentralMemberId is the ID you receive upon registration to MKCentral site (Note: member ID ≠ player ID).
+iii. MKCentralMemberId is the ID you receive upon registration to MKCentral site (Note: member ID ≠ player ID).​
 
 B. Making an alternate account to join lounge will result in a ban from lounge, and an MKCentral ban of at least 2 months. MKCentral Staff will find out if an alternate account is made, so it's highly recommended to not do so.
 
@@ -30,30 +30,28 @@ III. RANKING SYSTEM
 
 A. Once a staff member has seen your account, you will be placed into one of the following ranks.
 
-i. Everyone starts off at 750 MMR (Iron), but existing players will start at a Placement MMR.
+i. Everyone starts off at 750 MMR (Iron), but existing players will start at a Placement MMR.​
 
-ii. These are all the ranks:
+ii. These are all the ranks:​
 
-Iron: 0-999 MMR
-Bronze: 1000-1999 MMR (Placement: 1500 MMR)
-Silver: 2000-2999 MMR (Placement: 2500 MMR)
-Gold: 3000-3999 MMR (Placement: 3500 MMR)
-Platinum: 4000-4999 MMR
-Ruby: 5000-5999 MMR
-Diamond: 6000-6999 MMR
-Master: 7000-7999 MMR
-Grandmaster: 8000+ MMR
+Iron: 0-999 MMR​
+Bronze: 1000-1999 MMR (Placement: 1500 MMR)​
+Silver: 2000-2999 MMR (Placement: 2500 MMR)​
+Gold: 3000-3999 MMR (Placement: 3500 MMR)​
+Platinum: 4000-4999 MMR​
+Ruby: 5000-5999 MMR​
+Diamond: 6000-6999 MMR​
+Master: 7000-7999 MMR​
+Grandmaster: 8000+ MMR​
 
 B. Depending on your rank, you will see 1-2 channels that you can play matches in, listed below:
 
-Tier E: Iron + Bronze
-Tier D: Bronze + Silver
-Tier C: Silver + Gold
-Tier B: Gold + Platinum
-Tier A: Platinum + Ruby + Diamond + Master + Grandmaster
-Tier S: Ruby + Diamond + Master + Grandmaster
-Tier X: Diamond + Master + Grandmaster
-Tier Z: Master + Grandmaster
+Tier D: Iron + Bronze​
+Tier C: Bronze + Silver​
+Tier B: Silver + Gold​
+Tier A: Platinum + Ruby + Diamond + Master + Grandmaster​
+Tier S: Ruby + Diamond + Master + Grandmaster​
+Tier X: Diamond + Master + Grandmaster​
 
 
 IV. GATHERING LINEUPS
@@ -70,23 +68,25 @@ E. After 8 races have passed in the current mogi, users not currently playing ar
 
 F. Once lineups are gained, MogiBot voting will be used to decide on the format. The first eight players who originally said can are allowed to vote. Anyone who is not apart of the original 8 in the line-up is not permitted to vote.
 
-i. Players who drop for any reason after the poll has been started will receive a -100 MMR strike.
+i. Players who drop for any reason after the poll has been started will receive a -100 MMR strike.​
 
-ii. If the event is a FFA, only a host will be needed and the event can start immediately.
+ii. If the event is a FFA, only a host will be needed and the event can start immediately.​
 
-iii. If the event is a 2v2, teams will be randomized.
+iii. If the event is a 2v2, teams will be randomized.​
 
-iv. If the event is a 4v4, the 2 players with the highest MMR in the room will be placed in different teams. The others 6 players will be randomly and automatically selected to one of the teams (take into account only the Ice Mario lineup). The 2 highest MMR must choose the tag for their teams.
+iv. If the event is a 4v4, the 2 players with the highest MMR in the room will be placed in different teams. The others 6 players will be randomly and automatically selected to one of the teams (take into account only the Ice Mario lineup). The 2 highest MMR must choose the tag for their teams.​
 
-v. Once teams are randomized, they are final and cannot be changed.
+v. Once teams are randomized, they are final and cannot be changed.​
 
-vi. In the event of MogiBot being offline and players are forced to manually randomize teams, the list which appears first will be the official teams. Players who force another list will receive -50 MMR strike.
+vi. In the event of MogiBot being offline and players are forced to manually randomize teams, the list which appears first will be the official teams. Players who force another list will receive -50 MMR strike.​
 
 G. Once the host is decided, he must share the Room Code. The first person to share a code in the corresponding #room-code-channel will be considered the host of the match.
 
-i. Codes cannot be deleted by the host, if this occurs the host will receive -50 MMR strike.
+i. Codes cannot be deleted by the host, if this occurs the host will receive -50 MMR strike.​
 
-ii. The host should not take more than 5 minutes to open a room after a reopen, otherwise the host will receive a host flag.
+ii. The host should not take more than 5 minutes to open a room after a reopen, otherwise the host will receive a host flag.​
+
+iii. Players with Host Banned role are unable to open rooms to host a mogi. Players who violate this rule will receive -50 MMR strike.​
 
 H. If there is no host for a mogi 10 minutes after the poll ends, the entire lineup will receive -50 MMR strike.
 
@@ -101,15 +101,15 @@ Item Slots: 2
 COM Racers: Yes
 Number of races: 12 races
 Join Method: Room Code
-i. Rooms that are started with incorrect settings will be reopened and any races with the incorrect settings will not count.
+i. Rooms that are started with incorrect settings will be reopened and any races with the incorrect settings will not count.​
 
-ii. Failure to start a room with the correct settings may result in an individual host flag. If mogi is cancelled for incorrect settings, host will receive host ban and -50 MMR strike.
+ii. Failure to start a room with the correct settings may result in an individual host flag. If mogi is cancelled for incorrect settings, host will recieve host ban and -50 MMR strike.​
 
-iii. Players with 2 host flags will receive Host Banned role.
+iii. Players with 2 host flags will receive Host Banned role.​
 
 B. Hosts that start the room with less than 8 players, close the room for no reason, or otherwise cause unnecessary disruptions will receive -50 MMR strike, and may be prohibited from hosting in the future.
 
-i. If a sub needs to join the mogi, the host must restart the room, even if a team has no DCs available.
+i. If a sub needs to join the mogi, the host must restart the room, even if a team has no DCs available.​
 
 C. All MKTC Lounge matches will consist of twelve (12) races in total.
 
@@ -124,21 +124,28 @@ No strike: minute :05
 
 F. After the first 5 minutes have passed, the lineup may look for sub. The sub may only join the room after 10 minutes of waiting. The mogi should not be started with less than 8 players under any condition.
 
-i. If a lineup is struggling to find a sub, please tag Updaters or Lounge Staff to tag @here for a sub.
+i. If a lineup is struggling to find a sub, please tag Updaters or Lounge Staff to tag @here for a sub.​
 
-ii. After 15 minutes have passed without the mogi having been started, it may be cancelled, once the Lounge Staff has been previously tagged.
+
+ii. After 15 minutes have passed without the mogi having been started, the lineup can tag @Lounge Staff so the can mogi can be cancelled.​
+
+iii. Players who cancel a mogi without tagging an @Lounge Staff will receive Reporter Banned role.​
 
 G. Players who leave an event for any reason:
 
-i. Do not gain MMR on a winning team.
-ii. Receive a -100 MMR strike.
-iii. Lose any MMR their team lost in addition to the -100 MMR strike.
+i. Do not gain MMR on a winning team.​
+
+ii. Receive a -100 MMR strike.​
+
+iii. Lose any MMR their team lost in addition to the -100 MMR strike.​
 
 H. Players who sub in a match that has already started:
 
-i. Do not lose MMR on a losing team.
-ii. Only gain MMR on the winning team if they play 4 or more races in said event.
-iii. A match has started once the first race has been completed, with the race results being shown. Players that sub in before the first race will be given normal MMR gains or losses.
+i. Do not lose MMR on a losing team.​
+
+ii. Only gain MMR on the winning team if they play 4 or more races in said event.​
+
+iii. A match has started once the first race has been completed, with the race results being shown. Players that sub in before the first race will be given normal MMR gains or losses.​
 
 I. In FFA format events. Players will not be replaced with a sub if the room has already started.
 
@@ -148,17 +155,17 @@ K. Teams missing a player for at least 3 races will lose MMR proportional to the
 
 L. Any player is disqualified from an event for any reason. They will receive a -100 MMR strike listed below:
 
-i. Throwing.
-i.a). Throwing is defined as losing a winning game on purpose for not playing a race, team kill, etc.
-i.b). Concrete evidences are required to prove throwing.
+i. Throwing.​
+i.a). Throwing is defined as losing a winning game on purpose for not playing a race, team kill, etc.​
+i.b). Concrete evidences are required to prove throwing.​
 
-ii. Teaming.
-ii.a). Teaming is defined as helping an opposite player during matches with items, streams, etc.
-ii.b). Being in a voice channel with an opposite player in MKT Lounge server is considered teaming and only a screenshot of the channel is needed for proof.
+ii. Teaming.​
+ii.a). Teaming is defined as helping an opposite player during matches with items, streams, etc.​
+ii.b). Being in a voice channel with an opposite player in MKT Lounge server is considered teaming and only a screenshot of the channel is needed for proof.​
 
-iii. Lap-trolling (will only be valid for 4v4 events).
-iii.a). Lap-trolling is defined as purposefully taking a lap behind the others in order to sabotage the players in the top positions, you try to kill it to let your mates pass.
-iii.b). Concrete evidences are required to prove lap-trolling.
+iii. Lap-trolling (will only be valid for 4v4 events).​
+iii.a). Lap-trolling is defined as purposefully taking a lap behind the others in order to sabotage the players in the top positions, you try to kill it to let your mates pass.​
+iii.b). Concrete evidences are required to prove lap-trolling.​
 
 M. Players who abuse the temprole by requesting to play new mogis in lower or higher tier due to the requested role will receive -100MMR strike. If the player wins the mogi the MMR gain will be deducted and if the player loses the mogi they will keep the MMR loss.
 
@@ -182,23 +189,25 @@ Note. This issue is caused due to MKT's multiplayer mode randomly assigning the 
 
 D. In 2v2/4v4 events. If a player disconnects and is replaced by a CPU (Penguin Luigi for example), the room is to be reopened and the race will not count.
 
-i. Each team may only reopen the room once (1).
+i. Each team may only reopen the room once (1).​
 
-ii. In 2v2/4v4 events. Disconnections in the first race will not be consider as a "reopen" to the team, the race will not count and the room must be reopened. Players who disconnect twice in the first race will receive a strike without MMR loss though, this second reopen also does not count as a "reopen" to the team.
+ii. In 2v2/4v4 events. Disconnections in the first race will not be consider as a "reopen" to the team, the race will not count and the room must be reopened. Players who disconnect twice in the first race will receive a strike without MMR loss though, this second reopen also does not count as a "reopen" to the team.​
 
 E. In FFA format events. If a player disconnects is replaced by CPU (Penguin Luigi for example). The race will count and the room must not be reopened.
 
-i. If a player disconnects in the first race and is replaced by CPU (Penguin Luigi for example). The race will not count and the room must be reopened.
+i. If a player disconnects in the first race and is replaced by CPU (Penguin Luigi for example). The race will not count and the room must be reopened.​
 
-ii. If 3 or more players disconnect and are replaced by CPUs (Cat Toad, Ice Mario for example). The race will not count and the room must be reopened.
+ii. If 3 or more players disconnect and are replaced by CPUs (Cat Toad, Ice Mario for example). The race will not count and the room must be reopened.​
 
-iii. The CPU points will be distributed in the following way: the player disconnected that have more points in that race will receive the higher position points from the CPU bot.
+iii. The CPU points will be distributed in the following way: the player disconnected that have more points in that race will receive the higher position points from the CPU bot.​
 
 F. In FFA format events. Reopens in the first match is mandatory when a CPU appears. Players who disconnect twice in the first race will receive 50 MMR strike.
 
-i. If a player is disconnected three times, the player must be replaced for a sub. The player will not receive an additional strike for having a sub, but the previous penalty will be increased to -100 MMR strike.
+i. If a player is disconnected three times, the player must be replaced for a sub. The player will not receive an additional strike for having a sub, but the previous penalty will be increased to -100 MMR strike.​
 
 G. In the event a race is completed but the results do not show, the room is to be reopened and the race will not count.
+
+i. The race will count if at least 3 players, from two different teams, share a screenshot of the positions at the end of race.​
 
 H. If a race does not finish due to lag, the race will not be counted and the room will be reopened.
 
@@ -215,20 +224,20 @@ A. Players who receive MMR penalties for quitting matches, lap-trolling (only va
 
 B. Players who reach 3 strikes will receive the following punishments:
 
-i. 1st offense: 7 day mute.
+i. 1st offense: 7 day mute.​
 
-ii. 2nd offense: 14 day mute.
+ii. 2nd offense: 14 day mute.​
 
-iii. 3rd offense: 21 day mute.
+iii. 3rd offense: 21 day mute.​
 
 
 VIII. CONDUCT
 
-A. Players who consistently cause disruptions in the server such as trolling, flaming, spamming bot commands, show disobedience with Admins announcements, etc. will receive a 7 days mute and may receive increased punishment on repeated instances.
+A. Players who consistently cause disruptions in the server such as trolling, flaming, spamming bot commands, show disobedience with Admins announcements and requests, etc. will receive a 7 days mute and may receive increased punishment on repeated instances.
 
 B. Players who consistently cause disruptions in matches such as trolling, targeting specific players, inting etc. will receive a 7 days mute, and may receive increased punishment on repeated instances.
 
-i. It will not be considered trolling by allowing all drivers to be used with their respective abilities incluiding item+ (Lucky Seven, Bob-omb Cannon, Super Bell, Super Leaf, Bowser's Shell, Bubble, Hammer for example).
+i. It will not be considered trolling by allowing all drivers to be used with their respective abilities incluiding item+ (Lucky Seven, Bob-omb Cannon, Super Bell, Super Leaf, Bowser's Shell, Bubble, Hammer for example).​
 
 C. Players who consistently engage in toxic behavior will receive 3 days of mute, and may receive increased punishment on repeated instances.
 
@@ -249,25 +258,31 @@ J. Additional prohibitions may be added, for which you should consult the ⁠#se
 
 IX. RESULTS
 
-A. Tables must be submitted using the Pinbot - MKT Table Bot in the Lounge server. For more info on how to use this bot, click here.
+A. A. Tables must be submitted by someone from the winning team using the Pinbot - MKT Table Bot in the Lounge server.
+
+i. If the table results is not published within 12 hours, the winning team will receive a strike without MMR loss.​
+
+ii. If the table is made by another team, there will be no penalty to the winning team.​
+
+iii. If the winning team does not have screenshots of the results, they must request them from the host.​
 
 B. In order for a match to be counted, using a war table with all the correct player names (Server nicknames, not Mii Names) is required. Any penalties that occurred during the match must also be stated.
 
 C. Room hosts are responsible for taking screenshots of the results. If an event fails to have a screenshot or table posted within 12 hours, the host of the room will receive -100 MMR strike and a host banned role.
 
-i. In case the race provides two different results to players, the screenshot valid is the one that host has. If host doesn’t have the screenshot, the race will not count. The host will receive a host flag in this case.
+i. In case the race provides two different results to players, the screenshot valid is the one that host has. If host doesn’t have the screenshot, the race will not count. The host will receive a host flag in this case.​
 
 D. Only reporters will be given access to the results channel in order to prevent spamming. If you would like to become a reporter, please press reactions in self-roles channel.
 
-i. All players with a reporter role must follow the reporter-guidelines channel.
+i. All players with a reporter role must follow the reporter-guidelines channel.​
 
-ii. Players who use the /esn command without at least 8 races passed, will receive reporter banned role.
+ii. ii. Players who use the /esn command without at least 8 races passed, will receive reporter banned role.​
 
-iii. Players who post incorrect tables, wrong points, etc., might receive reporter flag in the first occurrence. The second occurrence the player will receive Reporter banned role.
+iii. Players who post incorrect tables, wrong points, etc., might receive reporter flag in the first occurrence. The second occurrence the player will receive Reporter banned role.​
 
-iv. Reporters who spam in results-channels will receive reporter banned role.
+iv. Reporters who spam in results-channels will receive reporter banned role.​
 
-v. To report a late join strike, the reporter must attach a screenshot of the room for the missing player for easy verification. Reports without a screenshot will be analyzed by the Staff.
+v. To report a late join strike, the reporter must attach a screenshot of the room for the missing player for easy verification. Reports without a screenshot will be analyzed by the Staff.​
 
 
 X. SQUAD QUEUE
@@ -276,11 +291,11 @@ A. Squad Queue is a different way of playing lounge that allows players to play 
 
 B. If a player fails to show up for a match, misses at least half of an event, or trolls during an event (IV. h, IV. j) they will receive the SQ Restricted role for 1 week. This role is essentially a ban from SQ for the duration that the player has the role.
 
-i. If a team can find a sub for a missing player before the late penalty time, the missing player will not receive the SQ restricted role.
+i. If a team can find a sub for a missing player before the late penalty time, the missing player will not receive the SQ restricted role.​
 
-C. Subs are allowed in Squad Queue events; however, the sub's MMR must keep their team's average MMR within the range of the room. In other words, if a team would be in a different room if their team MMR was different, then the sub isn't allowed.
+C. Subs are allowed in Squad Queue events; however, the sub's MMR must have +/- 1000 MMR of the player who has been replaced.
 
-i. If a team gets a sub which would put their average MMR in a different room, the whole team will receive -50 and a strike at minimum. If the team wins more than 50 MMR, the penalty will be increased to match the amount of MMR they would have gained.
+i. If a team gets a sub with a higher or lower MMR, the whole team will receive -50 and a strike at minimum. If the team wins more than 50 MMR, the penalty will be increased to match the amount of MMR they would have gained.​
 
 
 XI. UNRANKED
@@ -289,8 +304,11 @@ A. Unranked is a game mode where you don’t lose any MMR and just play for fun,
 
 B. In accordance with these official rules, the same rules will apply for unranked.
 
-i. In case of receiving a penalty. The strike will be applied without receiving MMR loss.
-ii. It will not be considered trolling by allowing all drivers to be used with their respective abilities incluiding item+ (refer to rule VII.b.i).
+i. In case of receiving a penalty. The strike will be applied without receiving MMR loss.​
+
+ii. It will not be considered trolling by allowing all drivers to be used with their respective abilities incluiding item+ (refer to rule VII.b.i).​
+
+iii. If a player disconnects is replaced by CPU. The race will count and the room must not be reopened.​
 
 XII. CONCLUSION
 
@@ -299,4 +317,4 @@ That is all that we are expecting each and every one of you to follow. We hope y
 
 Thank you.
 
-- MKTC Lounge Staff.
+- MKTC Lounge Staff
